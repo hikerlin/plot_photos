@@ -17,8 +17,10 @@ Usage:
 
 Output:
 ---------
-mymap.html
-.. image:: https://github.com/hikerlin/plot_photos/Samples/plot_sample.png
+in Samples directory
+
+![demo][1]
+[1] https://github.com/hikerlin/plot_photos/Samples/plot_sample.png
 
 
 
