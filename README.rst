@@ -13,6 +13,7 @@ Requires:
 Usage:
 ---------
 	python plot_on_google_maps.py location photo_directory
+
 	e.g.  python plot_on_google_maps.py Shanghai ./
 
 Output:
