@@ -19,8 +19,7 @@ Output:
 ---------
 in Samples directory
 
-![demo][1]
-[1] https://github.com/hikerlin/plot_photos/Samples/plot_sample.png
+.. image:: https://github.com/hikerlin/plot_photos/blob/master/Sample/plot_sample.png
 
 
 
